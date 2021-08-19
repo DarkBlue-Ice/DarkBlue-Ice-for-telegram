@@ -186,7 +186,7 @@ searchedBarBg: windowBgOver; // search results bar background (in chats list, co
 searchedBarFg: windowSubTextFgOver; // search results bar text (in chats list, contacts box..)
 topBarBg: windowBg; // top bar background (in chat view, media overview..)
 emojiPanBg: windowBg; // emoji panel background
-emojiPanCategories: #f7f7f7; // emoji panel categories background
+emojiPanCategories: #39404d; // emoji panel categories background
 emojiPanHeaderFg: windowSubTextFg; // emoji panel section header text
 emojiPanHeaderBg: #fffffff2; // emoji panel section header background
 emojiIconFg: checkboxFg; // emoji category icon
@@ -250,10 +250,10 @@ historyPeer8UserpicBg: #faa774; // orange userpic background
 historyPeerUserpicFg: windowFgActive; // default userpic initials
 historyPeerSavedMessagesBg: historyPeer4UserpicBg; // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted; // archive folder userpic background
-historyScrollBarBg: #517c417a; // scroll bar current rectangle, the bar itself in the chat view (adjusted)
-historyScrollBarBgOver: #517c41bc; // scroll bar current rectangle with mouse over it in the chat view (adjusted)
-historyScrollBg: #517c414c; // scroll bar background (adjusted)
-historyScrollBgOver: #517c416b; // scroll bar background with mouse over the scroll bar (adjusted)
+historyScrollBarBg: #415e7c7a; // scroll bar current rectangle, the bar itself in the chat view (adjusted)
+historyScrollBarBgOver: #415e7cbc; // scroll bar current rectangle with mouse over it in the chat view (adjusted)
+historyScrollBg: #415e7c4c; // scroll bar background (adjusted)
+historyScrollBgOver: #415e7c6b; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg; // inbox message background
 msgInBgSelected: #587893; // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #39404d; // outbox message background
@@ -273,8 +273,8 @@ msgInDateFgSelected: #6a9cc5; // inbox selected message time text
 msgOutDateFg: #a0acb6; // outbox message time text
 msgOutDateFgSelected: #50a79c; // outbox selected message time text
 msgServiceFg: windowFgActive; // service message text (like date dividers or service message about the group title being changed)
-msgServiceBg: #517c417f; // service message background (like in a service message about group title being changed) (adjusted)
-msgServiceBgSelected: #96b38ba2; // service message selected text background (like in a service message about group title being changed) (adjusted)
+msgServiceBg: #415e7c7f; // service message background (like in a service message about group title being changed) (adjusted)
+msgServiceBgSelected: #819ebda2; // service message selected text background (like in a service message about group title being changed) (adjusted)
 msgInReplyBarColor: activeLineFg; // inbox message reply outline
 msgInReplyBarSelColor: activeLineFg; // inbox selected message reply outline
 msgOutReplyBarColor: historyOutIconFg; // outbox message reply outline
