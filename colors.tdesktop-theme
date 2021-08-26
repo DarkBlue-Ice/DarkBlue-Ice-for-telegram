@@ -141,9 +141,9 @@ dialogsVerifiedIconFg: #39404d; // chat list verified icon check
 dialogsSendingIconFg: #c1c1c1; // chat list sending message icon (clock)
 dialogsSentIconFg: #4e5c7a; // chat list sent message tick / double tick icon
 dialogsUnreadBg: windowBgActive; // chat list unread badge background for not muted chat
-dialogsUnreadBgMuted: #6a3838; // chat list unread badge background for muted chat
-dialogsUnreadFg: windowFgActive; // chat list unread badge text
-dialogsArchiveFg: #421616; // chat list archive name text
+dialogsUnreadBgMuted: #4e5c7a; // chat list unread badge background for muted chat
+dialogsUnreadFg: #2a2f3b; // chat list unread badge text
+dialogsArchiveFg: #919db3; // chat list archive name text
 dialogsOnlineBadgeFg: #4dc920; // chat list online status
 dialogsScamFg: dialogsDraftFg; // chat list scam label
 dialogsBgOver: windowBgOver; // chat list background with mouse over
@@ -160,7 +160,7 @@ dialogsSentIconFgOver: dialogsSentIconFg; // chat list sent message tick / doubl
 dialogsUnreadBgOver: dialogsUnreadBg; // chat list unread badge background for not muted chat with mouse over
 dialogsUnreadBgMutedOver: dialogsUnreadBgMuted; // chat list unread badge background for muted chat with mouse over
 dialogsUnreadFgOver: dialogsUnreadFg; // chat list unread badge text with mouse over
-dialogsArchiveFgOver: #525252; // chat list archive name text with mouse over
+dialogsArchiveFgOver: #919db3; // chat list archive name text with mouse over
 dialogsScamFgOver: dialogsDraftFgOver; // chat list scam label with mouse over
 dialogsBgActive: #454e63; // chat list background for current (active) chat
 dialogsNameFgActive: #c3d6f9; // chat list name text for current (active) chat
