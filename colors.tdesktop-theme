@@ -27,7 +27,7 @@ activeButtonSecondaryFgOver: activeButtonSecondaryFg; // default active button a
 activeLineFg: #283e49; // default active line (like code input field bottom border when you log in and field is focused)
 activeLineFgError: #e48383; // default active line for error state (like code input field bottom border when you log in and you've entered incorrect code)
 lightButtonBg: windowBg; // default light button background (like buttons in boxes)
-lightButtonBgOver: #e3f1fa; // default light button background with mouse over
+lightButtonBgOver: #4e5c7a; // default light button background with mouse over
 lightButtonBgRipple: #c9e4f6; // default light button ripple effect
 lightButtonFg: windowActiveTextFg; // default light button text
 lightButtonFgOver: lightButtonFg; // default light button text with mouse over
@@ -250,10 +250,10 @@ historyPeer8UserpicBg: #faa774; // orange userpic background
 historyPeerUserpicFg: windowFgActive; // default userpic initials
 historyPeerSavedMessagesBg: historyPeer4UserpicBg; // saved messages userpic background
 historyPeerArchiveUserpicBg: dialogsUnreadBgMuted; // archive folder userpic background
-historyScrollBarBg: #415e7c7a; // scroll bar current rectangle, the bar itself in the chat view (adjusted)
-historyScrollBarBgOver: #415e7cbc; // scroll bar current rectangle with mouse over it in the chat view (adjusted)
-historyScrollBg: #415e7c4c; // scroll bar background (adjusted)
-historyScrollBgOver: #415e7c6b; // scroll bar background with mouse over the scroll bar (adjusted)
+historyScrollBarBg: #575d667a; // scroll bar current rectangle, the bar itself in the chat view (adjusted)
+historyScrollBarBgOver: #575d66bc; // scroll bar current rectangle with mouse over it in the chat view (adjusted)
+historyScrollBg: #575d664c; // scroll bar background (adjusted)
+historyScrollBgOver: #575d666b; // scroll bar background with mouse over the scroll bar (adjusted)
 msgInBg: windowBg; // inbox message background
 msgInBgSelected: #587893; // inbox selected message background (and background of selected text in those messages)
 msgOutBg: #39404d; // outbox message background
@@ -273,8 +273,8 @@ msgInDateFgSelected: #6a9cc5; // inbox selected message time text
 msgOutDateFg: #a0acb6; // outbox message time text
 msgOutDateFgSelected: #50a79c; // outbox selected message time text
 msgServiceFg: windowFgActive; // service message text (like date dividers or service message about the group title being changed)
-msgServiceBg: #415e7c7f; // service message background (like in a service message about group title being changed) (adjusted)
-msgServiceBgSelected: #819ebda2; // service message selected text background (like in a service message about group title being changed) (adjusted)
+msgServiceBg: #575d667f; // service message background (like in a service message about group title being changed) (adjusted)
+msgServiceBgSelected: #989ea6a2; // service message selected text background (like in a service message about group title being changed) (adjusted)
 msgInReplyBarColor: activeLineFg; // inbox message reply outline
 msgInReplyBarSelColor: activeLineFg; // inbox selected message reply outline
 msgOutReplyBarColor: historyOutIconFg; // outbox message reply outline
