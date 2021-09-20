@@ -1,7 +1,7 @@
 ## DarkBlue Ice for telegram
 <img src="images/example.png">
 
-### A Beautiful theme for telegram with Dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for telegram with dark blue and ice colors distributed in a harmonic way.
 
 ---
 
@@ -10,7 +10,8 @@
 ---
 
 ## Color pallet
-<img src="images/pallet.png">
+
+### See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
 
 ---
 
